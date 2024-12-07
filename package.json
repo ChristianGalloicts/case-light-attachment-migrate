@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node index.js --schema _d82e5b09_f46b_4857_b8e3_9c456dc2f422"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg-promise": "^11.10.2",
+    "yargs": "^17.7.2"
+  },
+  "name": "case-light-attachment-migrate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Gallo",
+  "license": "ISC",
+  "description": "Projeto para migrar todos os anexos do canal pronto (relatos,informacoes_adicionais,apuração)"
+}
