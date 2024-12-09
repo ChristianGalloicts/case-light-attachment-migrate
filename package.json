@@ -3,6 +3,7 @@
     "start": "node index.js --schema _d82e5b09_f46b_4857_b8e3_9c456dc2f422"
   },
   "dependencies": {
+    "archiver": "^7.0.1",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "pg-promise": "^11.10.2",
