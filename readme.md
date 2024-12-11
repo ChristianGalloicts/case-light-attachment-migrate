@@ -11,3 +11,5 @@ Para executar o script:
 modificar sempre o shema no package.json Exemplo:
 
 - yarn start --schema={_d82e5b09_f46b_4857_b8e3_9c456dc2f422}
+
+Sempre modificar o .env com os apontamentos segundo o ambiente
