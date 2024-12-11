@@ -93,7 +93,6 @@ const makeAttachmentFiles = (investigationAttachments, suffix) => {
       }).catch((err) => {
         console.log("Diretorio não existe");
         console.log(err);
-        reject(err);
       });        
     });
   });
